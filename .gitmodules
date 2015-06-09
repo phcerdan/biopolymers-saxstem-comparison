@@ -1,0 +1,6 @@
+[submodule "ITKfilters"]
+	path = ITKfilters
+	url = https://github.com/phcerdan/ITKfilters.git
+[submodule "FFT-from-image-compute-radial-intensity"]
+	path = FFT-from-image-compute-radial-intensity
+	url = https://github.com/phcerdan/FFT-from-image-compute-radial-intensity.git
