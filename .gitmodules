@@ -7,3 +7,6 @@
 [submodule "proxTV_saxstem"]
 	path = proxTV_saxstem
 	url = https://github.com/phcerdan/proxTV_saxstem
+[submodule "manuscript_SAXS-TEM-comparison"]
+	path = manuscript_SAXS-TEM-comparison
+	url = https://github.com/phcerdan/manuscript_SAXS-TEM-comparison
